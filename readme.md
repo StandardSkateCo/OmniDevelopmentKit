@@ -14,7 +14,7 @@ participate in discussions about the ODK. While we won't be using everything
 GitHub has to offer, we definitely will be taking your issues and suggestions 
 for improvement.
 
-Here's where to access the core-frame-system GitHub: 
+Here's where to access the ODK GitHub: 
 https://github.com/StandardSkateCo/OmniDevelopmentKit
 
 And here's a direct download of the most current CDK: 
